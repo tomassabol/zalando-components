@@ -7,7 +7,7 @@ export function ProductImage(product) {
     <img
       src="${product.image}"
       alt="Zalando"
-      class="w-full h-72 object-cover"
+      class="w-full h-[500px] object-cover"
     />
     ${FavoriteIcon()}
     <div class="absolute bottom-2 flex gap-x-2">

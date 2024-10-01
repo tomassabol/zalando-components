@@ -20,7 +20,7 @@ export const products = [
       "https://img01.ztat.net/article/spp-media-p1/9b0410e149174dcc97e2d48403158f51/b06ab1ec75ab4ee888c75fb330184748.jpg?imwidth=300",
     brand: "adidas Originals",
     name: "HANDBALL SPEZIAL - Sneakers - alumina/core black/white",
-    tags: [],
+
     price: "899,00 kr",
   },
   {
